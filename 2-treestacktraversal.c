@@ -91,7 +91,6 @@ void LinkPreOrder(element root) {
 		printf("pop(%d) ", node->data);   
 		printf("visit(%d)\n", node->data); 
 
-		
 		if (node->right != NULL) {
 			push(&s, node->right);
 			printf("push(%d) ", node->right->data); 
@@ -110,7 +109,6 @@ void LinkInOrder(element root) {
 	element node = root;
 
 	while (node != NULL || !is_empty(&s)) {
-		
 		while (node != NULL) {
 			push(&s, node);
 			printf("push(%d) ", node->data);
@@ -121,7 +119,6 @@ void LinkInOrder(element root) {
 		printf("pop(%d) ", node->data);
 		printf("visit(%d)\n", node->data);
 		
-
 		node = node->right;
 	}
 }
