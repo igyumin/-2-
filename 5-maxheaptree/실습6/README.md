@@ -1,2 +1,2 @@
-# Mac HEap Tree {Result Image}
+# Max HEap Tree {Result Image}
 ![](./image.png)
