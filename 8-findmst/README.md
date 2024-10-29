@@ -1,2 +1,2 @@
-#MAX HEap Tree {Result Image}
+# MAX HEap Tree {Result Image}
 ![](./image5.png)
