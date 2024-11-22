@@ -1,2 +1,2 @@
-#Sorting {Result Image}
+# Sorting {Result Image}
 ![](./image9.png)
