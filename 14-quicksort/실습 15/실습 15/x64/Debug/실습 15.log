@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\Owner\Desktop\실습 15\실습 15\소스.c(11,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Owner\Desktop\실습 15\실습 15\소스.c(77,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  실습 15.vcxproj -> C:\Users\Owner\Desktop\실습 15\x64\Debug\실습 15.exe
