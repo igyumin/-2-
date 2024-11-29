@@ -12,4 +12,4 @@
 아래는 정렬되는 과정이 제시된 출력결과보다 적게 나와서 round % 5로 수정한 뒤 캡처한 출력화면입니다.
 
 # QuickSort {Result Image / round % 5}
-![](./image13.png)
+![](./image14.png)
